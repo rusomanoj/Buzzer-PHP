@@ -1,0 +1,86 @@
+﻿/*************************************************************
+ *	DWEB Re-assessment 2012
+ *************************************************************/
+
+body {
+    background: url("purple_background_3.jpg") repeat-x scroll 0 0 transparent;
+	background-color: #3d1039;
+    color: #FFFFFF;
+    font: 12px/135% Trebuchet MS,Verdana,Tahoma,Arial;
+    letter-spacing: 0.026em
+}
+
+.container {
+	margin: 0 auto; /*shorthand property for all the margin properties in one. The margin clears an area around an element*/
+	margin-top: 30px;	
+	width: 955px; /*The width property sets the width of an element*/
+}
+
+.header {
+	width 100%
+}	
+.top_box_header {
+    background: #000000; 
+    height: 42px;
+    padding-left: 15px;
+    width: 900px;
+	/*border-top-left-radius: 15px;
+    border-top-right-radius: 15px; //NOT compatible with css2*/
+	text-align:justify;
+	padding-top: 1px;
+	padding-bottom: 2px;
+}
+
+.bottom_box_header {
+    background: #0d030d;
+    padding: 10px 15px;
+    width: 885px;
+    margin-bottom: 10px; /*cleans the array around the element*/
+	/*border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+	opacity: 0.5; //NOT compatible with css2*/
+}
+
+
+.wrap {
+    height: auto;
+}
+
+.top_box_medium {
+    background: #000000;
+    height: 42px;
+    padding-left: 15px;
+	/*border-top-left-radius: 15px;
+    border-top-right-radius: 15px; //NOT compatible with css2*/
+	text-align:justify;
+	padding-top: 1px;
+	padding-bottom: 2px;
+}
+
+.middle_box_medium {
+    background: #0d030d;
+    padding: 10px 15px;
+    width: 424px;
+	/*opacity: 0.5;//NOT compatible with css2*/
+}
+
+.bottom_box_medium {
+    background: #0d030d;
+    height: 25px;
+    margin-bottom: 10px; /*cleans the array around the element*/
+    width: 100%;
+	/*border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+	opacity: 0.5; //NOT compatible with css2*/
+}
+
+.center {
+    float: left;
+    margin: 0 5px 0 0; /* center the element - combine with width */
+    width: 454px;
+}
+
+/*************************************************************
+ *	DWEB Re-assessment 2012
+ *************************************************************/
+
