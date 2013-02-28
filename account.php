@@ -1,6 +1,6 @@
 <?php //make sure nothing gets sent to the browser before session_start();
 /*************************************************************
- *	DWEB Re-assessment 2012
+ *	
  *************************************************************/
  
 //start session
@@ -136,7 +136,7 @@ if(isset($_POST['Submit1']))//if the button for the submission of the buzz has b
 	
 <!-- 
  *************************************************************
- *	DWEB Re-assessment 2012
+ *	
  ************************************************************* 
  -->
 

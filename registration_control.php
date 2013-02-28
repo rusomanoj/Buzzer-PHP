@@ -1,6 +1,6 @@
 <?php
 /*************************************************************
- *	DWEB Re-assessment 2012
+ *	
  *************************************************************/
 
 	$thisfile = $_SERVER['PHP_SELF'];//returns the current script being executed. This variable returns the name and path of the current file
@@ -85,7 +85,7 @@
 	}
 
 /*************************************************************
- *	DWEB Re-assessment 2012
+ *	
  *************************************************************/
 
 ?>

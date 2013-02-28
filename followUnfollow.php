@@ -1,6 +1,6 @@
 <?php
 /*************************************************************
- *	DWEB Re-assessment 2012
+ *	
  *************************************************************/
 
 //if the $_SESSION['SESS_HANDLE'] is empty(no user logged in) trap the user in index page.
@@ -38,7 +38,7 @@ if(isset($_POST['submitFollowUnfollow']))//if the button for follow or unfollow 
 }
 
 /*************************************************************
- *	DWEB Re-assessment 2012
+ *	
  *************************************************************/
 
 ?>

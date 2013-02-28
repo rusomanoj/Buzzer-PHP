@@ -1,6 +1,6 @@
 <?php
 /*************************************************************
- *	DWEB Re-assessment 2012
+ *	
  *************************************************************/
 
 foreach($searchResults as $value)//for each user(result of function searchPeople()) find the handle and the profile. 
@@ -57,7 +57,7 @@ foreach($searchResults as $value)//for each user(result of function searchPeople
 }
 
 /*************************************************************
- *	DWEB Re-assessment 2012
+ *	
  *************************************************************/
 
 ?>
